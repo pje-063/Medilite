@@ -1,0 +1,11 @@
+gradio
+transformers
+torch
+pillow
+pytesseract
+gTTS
+sentencepiece
+protobuf
+pandas
+opencv-python-headless
+sacremoses
