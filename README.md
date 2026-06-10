@@ -36,8 +36,6 @@ python app.py
 - Final Year B.Tech CSE Project
 - Research Paper Presented at ICSTS 2025
 
-Vidya Vijay
-
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 ## Project screenshot
 ![Medilite Project](image/Medilite.jpeg)
